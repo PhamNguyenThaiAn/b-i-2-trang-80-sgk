@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thong tin ca nhan</title>
+</head>
+<body >
+    
+    <H1>Trang chủ</H1>
+    <ul>
+        <li><img align="" width="250px" height="250px" src="images/460668929_1253660499310944_1663842112095619599_n.jpg"></li>
+        <li>Tên: Phạm Nguyễn Thái An</li>
+        <li>Tuổi: 18</li>
+        <li>Ngày sinh: 11/9/2006</li>
+        <li>Điện thoại: 0566191924</li>
+        <li>Địa chỉ: DD12 Bạch Mã phường 12 quận 10</li>
+        <li>Email: phamnguyenthaian11@gmail.com</li>
+    </ul>
+    <h1>Kế hoạch học tập</h1>
+    <h1>Sở thích</h1>
+    <ol>
+        <li>Thể thao</li>
+        <li>Game</li>
+        <li>Nấu ăn</li>
+    </ol>
+    <h1>Liên hệ</h1>
+    <ul>
+        <li><a href="https://www.facebook.com/profile.php?id=100040010179668">facebook</a></li>
+        <li><a href="https://www.instagram.com/anphm_06/">instagram</a></li>
+    </ul>
+</body>
+</html>
